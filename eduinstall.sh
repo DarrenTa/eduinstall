@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script needs root privlages
 
 add-apt-repository ppa:webupd8team/atom
 apt-get update
